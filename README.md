@@ -1,3 +1,3 @@
 # com_doska
 
-test component
+Joomla 3.6 test component
